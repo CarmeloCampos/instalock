@@ -37,6 +37,7 @@ while True:
             print('Agent Select Found')
             time.sleep(2)
             client.pregame_select_character(agents['agents'][preferredAgent])
+            time.sleep(1)
             client.pregame_lock_character(agents['agents'][preferredAgent])
             seenMatches.append(client.pregame_fetch_match()['ID'])
             print('Successfully Locked ' + preferredAgent.capitalize())
