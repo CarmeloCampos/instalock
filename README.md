@@ -1,4 +1,3 @@
-
 # Valorant Agent Instalock
 
 Este es un script para instalokear uwu
@@ -6,6 +5,9 @@ Este es un script para instalokear uwu
 
 
 [![Python 3.11.1](https://img.shields.io/badge/python-v3.11.1-blue.svg)](https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe)
+[![Discord](https://img.shields.io/discord/664556383110299650.svg)](https://discord.gg/vNsSeTYCVH)
+[![Twitch](https://img.shields.io/twitch/status/CarmeloCampos?style=social)](https://twitch.tv/carmelocampos)
+
 
 
 ## Instalacion
