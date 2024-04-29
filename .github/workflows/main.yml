@@ -15,4 +15,4 @@ jobs:
           spec: 'instalock.py'
           requirements: 'requirements.txt'
           upload_exe_with_name: 'InstaLock'
-          options: --onefile, --name "InstaLock", --windowed, 
+          options: --onefile, --name "InstaLock", --console, 
