@@ -36,7 +36,9 @@ agents = {
     "fade": "dade69b4-4f5a-8528-247b-219e5a1facd6",
     "harbor": "95b78ed7-4637-86d9-7e41-71ba8c293152",
     "gekko": "e370fa57-4757-3604-3648-499e1f642d3f",
-    "deadlock": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235"
+    "deadlock": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+    "iso":"0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
+    "clove":"1dbf2edd-4729-0984-3115-daa5eed44993"
 }
 seenMatches = []
 

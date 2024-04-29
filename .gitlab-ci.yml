@@ -1,0 +1,17 @@
+stages:
+  - build
+
+build_job:
+  stage: build
+  image: mcr.microsoft.com/windows:1809
+  script:
+    - Set-ExecutionPolicy Bypass -Scope Process -Force
+    - choco install python --version=3.11.1
+    - refreshenv
+    - python -m pip install --upgrade pip
+    - pip install pyinstaller
+    - pip install -r requirements.txt
+    - pyinstaller --onefile instalock.py
+  artifacts:
+    paths:
+      - dist/*.exe
