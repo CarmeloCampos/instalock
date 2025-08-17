@@ -40,7 +40,8 @@ agents = {
     "iso":"0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
     "clove":"1dbf2edd-4729-0984-3115-daa5eed44993",
     "vyse":"efba5359-4016-a1e5-7626-b1ae76895940",
-    "tejo": "b444168c-4e35-8076-db47-ef9bf368f384"
+    "tejo": "b444168c-4e35-8076-db47-ef9bf368f384",
+    "waylay":"df1cb487-4902-002e-5c17-d28e83e78588"
 }
 seenMatches = []
 
